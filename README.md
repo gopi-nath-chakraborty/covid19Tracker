@@ -1,5 +1,5 @@
 
-![covid19Tracker](https://bit.ly/3vrFnCd)
+![image](https://bit.ly/3vrFnCd)
 
 # covid19Tracker
 
